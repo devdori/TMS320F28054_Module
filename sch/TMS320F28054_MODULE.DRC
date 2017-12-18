@@ -1,0 +1,12 @@
+Date and Time : 10/11/16 16:25:22
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections N16365351 
+                    SCHEMATIC1, Controller_Ver0.5  (215.90, 106.68) 
+
+Checking For Unconnected Bus Nets
